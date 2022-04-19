@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText>
         I make cool stuff for the web.
       </SectionText>
-      <Button onClick={() => window.location = 'mailto:hemang2050@gmail.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'mailto:hemang2050@gmail.com'}>Let's chat!</Button>
     </LeftSection>
   </Section>
 );
