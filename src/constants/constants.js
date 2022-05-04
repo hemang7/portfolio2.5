@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: "Rick and Morty Wiki",
-    description: "Eberything about Rick and Morty",
+    description: "Everything Rick and Morty",
     image: "/images/ricknMorty.png",
     tags: ["Javascript", "React"],
     source: "https://rick-and-morty-hm.vercel.app/",
