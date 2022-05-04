@@ -9,6 +9,15 @@ export const projects = [
     id: 5,
   },
   {
+    title: "Rick and Morty Wiki",
+    description: "Eberything about Rick and Morty",
+    image: "/images/ricknMorty.png",
+    tags: ["Javascript", "React"],
+    source: "https://rick-and-morty-hm.vercel.app/",
+    visit: "https://github.com/hemang7/Rick-and-Morty",
+    id: 6,
+  },
+  {
     title: "Meme Generator",
     description: "Meme generator app.",
     image: "/images/5.png",
