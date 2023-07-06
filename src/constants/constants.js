@@ -22,8 +22,8 @@ export const projects = [
     description: "Twitter homepage clone built as an assignment.",
     image: "/images/9.png",
     tags: ["Javascript", "React"],
-    source: "https://hm-twitter.vercel.app/,
-    visit: "hhttps://github.com/hemang7/totalitycorp-frontend-challenge",
+    source: "https://hm-twitter.vercel.app/",
+    visit: "https://github.com/hemang7/totalitycorp-frontend-challenge",
     id: 8,
   },
   {
