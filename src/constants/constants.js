@@ -18,8 +18,8 @@ export const projects = [
     id: 7,
   },
     {
-    title: "Twitter Home Clone",
-    description: "Twitter homepage clone built as an assignment.",
+    title: "Twitter Home",
+    description: "A working clone of the Twitter homepage.",
     image: "/images/9.png",
     tags: ["Javascript", "React"],
     source: "https://hm-twitter.vercel.app/",
